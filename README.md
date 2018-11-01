@@ -3,11 +3,7 @@ Deep Neural Network architecture as predictive optimal controller for {HVAC+Sola
 
 ***
 
-## Optimal control via
-
-## Deep Neural Networks
-
-## A.Hanggoro, Y. Zahidi, A.Ismail
+## Optimal control via Deep Neural Networks
 
 **_Abstract_** **— Model predictive control is an advanced
 method to control the dynamics of a system while
