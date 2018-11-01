@@ -3,8 +3,6 @@ Deep Neural Network architecture as predictive optimal controller for {HVAC+Sola
 
 ***
 
-(^1)
-
 ## Optimal control via
 
 ## Deep Neural Networks
